@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/evertonhlo/%20apifilmes/static/css/main.74cbe98a.css",
-    "main.js": "/evertonhlo/%20apifilmes/static/js/main.b733e999.js",
-    "index.html": "/evertonhlo/%20apifilmes/index.html",
-    "main.74cbe98a.css.map": "/evertonhlo/%20apifilmes/static/css/main.74cbe98a.css.map",
-    "main.b733e999.js.map": "/evertonhlo/%20apifilmes/static/js/main.b733e999.js.map"
+    "main.css": "/apifilmes/static/css/main.74cbe98a.css",
+    "main.js": "/apifilmes/static/js/main.b7245bf0.js",
+    "index.html": "/apifilmes/index.html",
+    "main.74cbe98a.css.map": "/apifilmes/static/css/main.74cbe98a.css.map",
+    "main.b7245bf0.js.map": "/apifilmes/static/js/main.b7245bf0.js.map"
   },
   "entrypoints": [
     "static/css/main.74cbe98a.css",
-    "static/js/main.b733e999.js"
+    "static/js/main.b7245bf0.js"
   ]
 }
